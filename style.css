@@ -157,14 +157,14 @@ nav{
     text-shadow: 0.5px 0.5px 2px white;
     text-align: center;
     cursor: pointer;
-    border: 2.5px solid var(--cor-doaçao); /* Verde*/
-    background-color:forestgreen; /* Verde */
+    border: 2.5px solid var(--cor-doaçao);
+    background-color:forestgreen;
     transition: background-color 0.4s, color 0.4s;
 }
 .container__botao a:hover{
-    background-color: var(--roxo-principal); /* Roxo */
+    background-color: var(--roxo-principal);
     color: #FFF;
-    border-color: #8e44ad; /* Roxo */
+    border-color: #8e44ad;
 }
 /*começo rodape*/
 .rodape {
